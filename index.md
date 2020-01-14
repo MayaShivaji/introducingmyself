@@ -10,6 +10,8 @@ My favorite color is Dark Green.
 
 ![billieeilish](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Billie_Eilish_2019_by_Glenn_Francis.jpg/440px-Billie_Eilish_2019_by_Glenn_Francis.jpg)
 * [Wendy Ayche](https://www.youtube.com/channel/UCD9PZYV5heAevh9vrsYmt1g)
+
+![Wendy Ayche](https://em.wattpad.com/59c3dbd22ddbe6bac047eab01009a745b3c62407/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f594a484a7162513673524f527a773d3d2d3736353231313730392e313562363230363735353630393638393731303132323735393439352e6a7067?s=fit&w=720&h=720)
 * [Hey Violet](https://www.heyviolet.com)
 * [Melanie Martinez](https://www.youtube.com/channel/UC2YnEq5Fc5_zEO6bo0oNzCQ)
 ### Why Am I Here?
