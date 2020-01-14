@@ -16,6 +16,8 @@ My favorite color is Dark Green.
 
 ![Hey Violet](https://i0.wp.com/allpunkedup.com/wp-content/uploads/2019/06/hey-violet-release-music-video-for-close-my-eyes-i7j15ERMqVQ.jpg?resize=759%2C500&ssl=1)
 * [Melanie Martinez](https://www.youtube.com/channel/UC2YnEq5Fc5_zEO6bo0oNzCQ)
+
+![Melanie Martinez](https://www.tvovermind.com/wp-content/uploads/2018/05/Melanie-Martinez.jpg)
 ### Why Am I Here?
 * To learn how to create websites. By the end of eight weeks, I would like to finish some website.
 ### How I Got Inspired?
