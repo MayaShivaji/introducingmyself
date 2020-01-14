@@ -1,12 +1,12 @@
 ## Maya Shivaji
 
-I am a student at Challenger School.
+I am a student in web design class in streetcode academy.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
+I am a student at Challenger School in 5th grade. I am 10 years old. My birthday is on March 23,2009.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
