@@ -3,8 +3,7 @@
 I am a student in web design class in streetcode academy.
 
 ### About me
-I am a student at Challenger School in 5th grade. I am 10 years old. My birthday is on March 23, 2009.
-My favorite color is Dark Green.
+I am a student at Challenger School in 5th grade. I am 10 years old. My favorite color is Dark Green.
 #### My Favorite Singers
 * [Billie Eilish](https://www.billieeilish.com)
 
